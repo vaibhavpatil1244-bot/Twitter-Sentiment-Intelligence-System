@@ -15,6 +15,7 @@
 - Natural Language Processing (NLP)
 - Scikit-learn
 - Matplotlib / Seaborn
+  
 **Results:-** The model successfully classified tweets into sentiment categories and helped identify public opinion trends using visual insights.
 
 **Future Improvements:-**
