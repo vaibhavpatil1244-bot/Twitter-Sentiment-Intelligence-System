@@ -7,3 +7,11 @@
 - Classify tweets into positive, negative, and neutral categories
 
 - Provide insights using data visualization
+
+**Tools & Technologies:-**
+- Python
+- Pandas
+- NumPy
+- Natural Language Processing (NLP)
+- Scikit-learn
+- Matplotlib / Seaborn
