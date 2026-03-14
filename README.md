@@ -22,4 +22,12 @@
 - Improve model accuracy using deep learning models
 - Real-time Twitter data integration
 - Deployment as a web application
-  
+
+- 
+  ## Author
+**Vaibhav Patil**  
+Data Analyst | Python | SQL | Power BI | Machine Learning  
+
+GitHub: https://github.com/vaibhavpatil1244-bot
+LinkedIn: https://www.linkedin.com/in/vaibhav-patil-ab2730307/
+
